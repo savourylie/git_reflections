@@ -1,0 +1,31 @@
+/*
+Reflect: Initializing a Repository
+
+What happens when you initialize a repository? Why do you need to do it?
+*/
+
+Git creates a .git folder for me. The .git folder contains meta-data of everything (excluding the .git folder) inside of the folder/repository and later will be used to track their histories.
+
+/*
+Reflect: Staging Area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+*/
+
+Repository:
+
+To me the repository is a place of working code.
+
+If a code doesn't compile or doesn't run. It shouldn't be in the repository. A repository is place of check points.
+
+Working Directory:
+
+A working directory is place you can do what ever you want. It's basically a desktop full of messy shit. Use it to form ideas and try out different approaches, do experiements. Once you've made up your mind what to go into the next commit, you wrap them up and commit it.
+
+Staging Area:
+
+The staging area is like a checklist to me. You put things that you have decided to go into the next commit into it so that you don't forget. Once the checklist is ready, you make the commit.
+
+
+
+
