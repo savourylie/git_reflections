@@ -1,0 +1,15 @@
+/*
+Reflect: Confidence from Version Control
+
+How might using version control make you more confident to make changes that could break something?
+*/
+
+I think it definitely increase my confidence of trying things out without having to worry about breaking things, as you can always revert back to any "check points" you want to and compare different versions easily. It's really cool!
+
+/*
+Reflect: How Do You Want to Use Git?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+*/
+
+I may try it on my current Front-end nanodegree projects. Tho so far it's been quite simple and introducing Git into my workflow require extra work for sure. I know at some point I will need it but I'm so sure about that just yet.
