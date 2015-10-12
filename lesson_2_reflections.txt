@@ -50,4 +50,12 @@ When
 
 Branches allow you to make bigger and traceable changes that are not official and you don't want to commit to that master branch.
 
+/*
+Reflect: Visualizing with Diagrams
+
+How do the diagrams help you visualize the branch structure?
+*/
+
+Being able to visualize the diagram helps me better understand how branching works. I think this is very important as some of the "nodes" can be made unreachable. Knowing where they are and how to keep them.
+
 
