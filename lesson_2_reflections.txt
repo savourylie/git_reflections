@@ -26,6 +26,14 @@ Staging Area:
 
 The staging area is like a checklist to me. You put things that you have decided to go into the next commit into it so that you don't forget. Once the checklist is ready, you make the commit.
 
+/*
+Reflect: Commit Size
+
+How can you use the staging area to make sure you have one commit per logical change?
+*/
+
+Before adding anything to the staging area, have a clear plan in your head and see if the files you're to add to the staging area fit in that plan. If not, then don't add them.
+
 
 
 
