@@ -58,4 +58,13 @@ How do the diagrams help you visualize the branch structure?
 
 Being able to visualize the diagram helps me better understand how branching works. I think this is very important as some of the "nodes" can be made unreachable. Knowing where they are and how to keep them.
 
+/*
+Reflect: Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+*/
+
+The result is a version of merged code from two tips from their branches, and the new tip contains the history from both branches.
+
+The representation makes it very clear to understand the relationships almong all the nodes.
 
