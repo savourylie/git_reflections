@@ -68,3 +68,15 @@ The result is a version of merged code from two tips from their branches, and th
 
 The representation makes it very clear to understand the relationships almong all the nodes.
 
+/*
+Reflect: Automatic vs. Manual Merging
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+*/
+
+I haven't really thought thru if the auto-merging function of git won't mess things up in considering all the possible scenarios. So can't say much about it.
+
+But the pros are obvious that it takes the work it can do from you and leaves only those that only humans can work out in tact and let you decide. If it doesn't make mistakes 99% of the time then I would say it's near perfect.
+
+
+
