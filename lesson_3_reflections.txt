@@ -1,0 +1,8 @@
+/*
+Reflect: Using a remote repository
+
+When would you want to use a remote repository rather than keeping all your work local?
+*/
+
+1. When it's really important and I want to have a safe backup on the cloud.
+2. When I want to share it or co-work with someone else.
